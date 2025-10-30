@@ -1,0 +1,10 @@
+D:\учеба\vs project\SkladApp\SkladApp\bin\Debug\SkladApp.exe.config
+D:\учеба\vs project\SkladApp\SkladApp\bin\Debug\SkladApp.exe
+D:\учеба\vs project\SkladApp\SkladApp\bin\Debug\SkladApp.pdb
+D:\учеба\vs project\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.AssemblyReference.cache
+D:\учеба\vs project\SkladApp\SkladApp\obj\Debug\SkladApp.Properties.Resources.resources
+D:\учеба\vs project\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.GenerateResource.cache
+D:\учеба\vs project\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.CoreCompileInputs.cache
+D:\учеба\vs project\SkladApp\SkladApp\obj\Debug\SkladApp.exe
+D:\учеба\vs project\SkladApp\SkladApp\obj\Debug\SkladApp.pdb
+D:\учеба\vs project\SkladApp\SkladApp\obj\Debug\SkladApp.exe.config
