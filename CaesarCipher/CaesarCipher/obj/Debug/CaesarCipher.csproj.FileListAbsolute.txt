@@ -1,0 +1,11 @@
+D:\учеба\vs project\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe.config
+D:\учеба\vs project\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.exe
+D:\учеба\vs project\CaesarCipher\CaesarCipher\bin\Debug\CaesarCipher.pdb
+D:\учеба\vs project\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csproj.AssemblyReference.cache
+D:\учеба\vs project\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.MainForm.resources
+D:\учеба\vs project\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.Properties.Resources.resources
+D:\учеба\vs project\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csproj.GenerateResource.cache
+D:\учеба\vs project\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.csproj.CoreCompileInputs.cache
+D:\учеба\vs project\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.exe
+D:\учеба\vs project\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.pdb
+D:\учеба\vs project\CaesarCipher\CaesarCipher\obj\Debug\CaesarCipher.exe.config
