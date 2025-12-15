@@ -1,0 +1,10 @@
+D:\учеба\vs project\FitnessClub\FitnessClub\FitnessClubDB\CalculatorApp\CalculatorApp\PublishingApp\PublishingApp\bin\Debug\PublishingApp.exe.config
+D:\учеба\vs project\FitnessClub\FitnessClub\FitnessClubDB\CalculatorApp\CalculatorApp\PublishingApp\PublishingApp\bin\Debug\PublishingApp.exe
+D:\учеба\vs project\FitnessClub\FitnessClub\FitnessClubDB\CalculatorApp\CalculatorApp\PublishingApp\PublishingApp\bin\Debug\PublishingApp.pdb
+D:\учеба\vs project\FitnessClub\FitnessClub\FitnessClubDB\CalculatorApp\CalculatorApp\PublishingApp\PublishingApp\obj\Debug\PublishingApp.csproj.AssemblyReference.cache
+D:\учеба\vs project\FitnessClub\FitnessClub\FitnessClubDB\CalculatorApp\CalculatorApp\PublishingApp\PublishingApp\obj\Debug\PublishingApp.Properties.Resources.resources
+D:\учеба\vs project\FitnessClub\FitnessClub\FitnessClubDB\CalculatorApp\CalculatorApp\PublishingApp\PublishingApp\obj\Debug\PublishingApp.csproj.GenerateResource.cache
+D:\учеба\vs project\FitnessClub\FitnessClub\FitnessClubDB\CalculatorApp\CalculatorApp\PublishingApp\PublishingApp\obj\Debug\PublishingApp.csproj.CoreCompileInputs.cache
+D:\учеба\vs project\FitnessClub\FitnessClub\FitnessClubDB\CalculatorApp\CalculatorApp\PublishingApp\PublishingApp\obj\Debug\PublishingApp.exe
+D:\учеба\vs project\FitnessClub\FitnessClub\FitnessClubDB\CalculatorApp\CalculatorApp\PublishingApp\PublishingApp\obj\Debug\PublishingApp.pdb
+D:\учеба\vs project\FitnessClub\FitnessClub\FitnessClubDB\CalculatorApp\CalculatorApp\PublishingApp\PublishingApp\obj\Debug\PublishingApp.exe.config
